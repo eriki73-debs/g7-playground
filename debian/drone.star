@@ -81,9 +81,9 @@ DRONE_ARCH_MAPPING = {
 	"armhf" : "arm",
 }
 
-DOCKER_IMAGE = "g7-debs/build-essential"
+DOCKER_IMAGE = "eriki73-debs/build-essential"
 
-TAG_PREFIX = "g7/"
+TAG_PREFIX = "eriki73/"
 
 FEATURE_BRANCH_PREFIX = "feature/"
 
